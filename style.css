@@ -58,7 +58,7 @@ footer{text-align:center;padding:34px;color:#aaa;font-size:13px}
 @media(max-width:760px){
   .hero{min-height:620px;padding:22px}
   .hero-inner{margin-top:95px}
-  h1{font-size:32px}
+  h1{font-size:30px}
   .hero-text{font-size:15px}
   .section{padding:64px 22px}
   h2{font-size:24px}
